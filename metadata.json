@@ -1,0 +1,5 @@
+{
+  "name": "IKEMEN Go Select Editor",
+  "description": "A visual editor for IKEMEN Go and MUGEN select.def files with AI-powered roster generation.",
+  "requestFramePermissions": []
+}
